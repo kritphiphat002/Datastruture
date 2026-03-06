@@ -1,0 +1,14 @@
+D:\project\Csharp\datastructure\week-4\week4_array-2d\obj\Debug\net9.0\week4_array-2d.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Csharp\datastructure\week-4\week4_array-2d\obj\Debug\net9.0\week4_array-2d.AssemblyInfoInputs.cache
+D:\project\Csharp\datastructure\week-4\week4_array-2d\obj\Debug\net9.0\week4_array-2d.AssemblyInfo.cs
+D:\project\Csharp\datastructure\week-4\week4_array-2d\obj\Debug\net9.0\week4_array-2d.csproj.CoreCompileInputs.cache
+D:\project\Csharp\datastructure\week-4\week4_array-2d\bin\Debug\net9.0\week4_array-2d.exe
+D:\project\Csharp\datastructure\week-4\week4_array-2d\bin\Debug\net9.0\week4_array-2d.deps.json
+D:\project\Csharp\datastructure\week-4\week4_array-2d\bin\Debug\net9.0\week4_array-2d.runtimeconfig.json
+D:\project\Csharp\datastructure\week-4\week4_array-2d\bin\Debug\net9.0\week4_array-2d.dll
+D:\project\Csharp\datastructure\week-4\week4_array-2d\bin\Debug\net9.0\week4_array-2d.pdb
+D:\project\Csharp\datastructure\week-4\week4_array-2d\obj\Debug\net9.0\week4_array-2d.dll
+D:\project\Csharp\datastructure\week-4\week4_array-2d\obj\Debug\net9.0\refint\week4_array-2d.dll
+D:\project\Csharp\datastructure\week-4\week4_array-2d\obj\Debug\net9.0\week4_array-2d.pdb
+D:\project\Csharp\datastructure\week-4\week4_array-2d\obj\Debug\net9.0\week4_array-2d.genruntimeconfig.cache
+D:\project\Csharp\datastructure\week-4\week4_array-2d\obj\Debug\net9.0\ref\week4_array-2d.dll
